@@ -1,4 +1,4 @@
 # JavaBooks
 скриншоты 
-![image](images.png)
-![image2](images2.png)
+![image](image.png)
+![image2](image2.png)
